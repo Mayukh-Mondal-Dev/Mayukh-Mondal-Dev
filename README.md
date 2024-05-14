@@ -6,6 +6,13 @@
 
 Welcome to my GitHub profile! I'm a B.Tech student specializing in AI-ML and Full Stack Web Development at Kalinga Institute of Industrial Technology. Here's a bit about me and my work.
 
+
+<p align="center">
+
+![171572813877205982](https://github.com/Mayukh-Mondal-Dev/Mayukh-Mondal-Dev/assets/92180806/a9844aeb-fc01-44b0-811d-e26e2467118a)
+
+</p>
+
 ## About Me
 
 - **Education:** B.Tech in Computer Science & Engineering
