@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a B.Tech student specializing in AI-ML and Ful
 
 - **[Hyperspectral-Image-Classification ](https://github.com/Mayukh-Mondal-Dev/Hybrid-SSRN-Vision-Transformer-Architecture-For-Hyperspectral-Image-Classification):** A Spectral-Spatial Residual Network (SSRN) Layer with Vision Transformer Architecture for Hyperspectral Image Classification
 - **[Decentralized Document Verification system ](https://github.com/Mayukh-Mondal-Dev/Decentralized-Document-Verifcation-System):** A web-based certificate generation and validation system using Flask that leverages blockchain for secure storage and QR codes for verification.
+- **[Private Confession Chat App ](https://github.com/Mayukh-Mondal-Dev/Private-Confession-App):**  Developed an anonymous confession application using Flask & SocketIO, enabling users to submit confessions and engage in real-time chat with admins
 - **[PredictBay ](https://github.com/The-Predictbay/Predictbay-V3):** Interactive stock visualization platform utilizing advanced machine learning algorithms to provide accurate predictions for stocks.
 
 
